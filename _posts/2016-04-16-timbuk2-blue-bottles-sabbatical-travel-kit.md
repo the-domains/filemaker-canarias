@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-11T23:09:47.387Z'
+datePublished: '2016-07-11T23:09:53.111Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/timbuk2-blue-bottle-travel-kit-coffee'
@@ -17,8 +17,8 @@ keywords:
   - craft
 related: []
 author: []
-dateModified: '2016-07-11T22:54:52.743Z'
-title: Soluciones con Filemaker
+dateModified: '2016-07-11T22:58:24.348Z'
+title: Soluciones Web
 app_links: []
 publisher:
   url: 'http://www.coolhunting.com'
@@ -37,4 +37,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Nuestro equipo de programadores ofrece soluciones de bases de datos personalizadas para gestionar tu negocio como siempre has soñado, realizando justo lo que deseas de forma exclusiva e integrada fácilmente con los sistemas empresariales existentes.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cbf68f451852bff75e439e971d4cbb78/croprotate.png?cropheight=929&cropwidth=2061&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6b4f914d-cf59-4aca-89a3-d5305b57faf1.png&x=0&y=0)
+![Tu sitio web puede llegar a ser el centro de tu negocio. Puede servir como una herramienta de marketing, un generador de ventas, y una plataforma para todos los sistemas de su empresa. Tenemos experiencia en la creación de soluciones de comercio electrónico, sistemas de reservas de productos y servicios, sistemas de pago, y una variedad de sistemas de recolección de datos. Utilizamos la tecnología y el código más actual para crear soluciones que ayuden a tu empresa a ser tan eficaz como pueda llegar a ser.
+
+Ofrecemos soluciones web compatibles con distintos dispositivos. Además, desde WebDirect o a través de la API de FileMaker para PHP con FileMaker Server podrás conectar tu web con el sistema de gestión de tu negocio.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fdad4ac-5158-4d07-9025-8c3b9bbb1b56.png)

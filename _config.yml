@@ -1,16 +1,28 @@
-layout_spectrum: 0.8581678590271622
-typography_spectrum: 0.7633129174355417
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7180aeef-5646-4c39-849f-fe7339310af0.jpg
+typography_spectrum: 0.8094385
 color:
+  saturation: 0.6947431
   brandStrength: 0.6372219293843955
-  lightness: 0.052772123366594315
-  saturation: 0.5263261084910482
-  rhythmicContrast: 0.5895542702637613
+  lightness: 0.03643965
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  rhythmicContrast: 0.6911589
+layout_spectrum: 1
 name: Filemaker Canarias
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7180aeef-5646-4c39-849f-fe7339310af0.jpg
